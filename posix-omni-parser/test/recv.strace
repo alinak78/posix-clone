@@ -1,0 +1,2 @@
+20645 recv(6, 0xb7199058, 4096, 0)      = -1 EAGAIN (Transport endpoint is not connected)
+20645 recvfrom(7, 0x7ffd1481ba50, 256, 0, NULL, NULL) = -1 ENOTCONN (Transport endpoint is not connected)

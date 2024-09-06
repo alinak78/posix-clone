@@ -1,0 +1,3 @@
+[console_scripts]
+parse_syscall_definitions = posix_omni_parser.parse_syscall_definitions:main
+
